@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Projeto Integrador</string>
+
+    <!--DADOS DO ALUNO -->
+    <string name="cadastrar_nome_hint">Nome Completo</string>
+    <string name="cadastrar_cpf_hint">CPF</string>
+    <string name="cadastrar_data_hint">Data de Nascimento</string>
+
+    <!-- ENDEREÇO -->
+    <string name="cadastrar_rua_hint">Rua</string>
+    <string name="cadastrar_bairro_hint">Bairro</string>
+    <string name="cadastrar_numero_hint">Número</string>
+    <string name="cadastrar_cep_hint">CEP</string>
+    <string name="cadastrar_complemento_hint">Complemento</string>
+    <string name="cadastrar_cidade_hint">Cidade</string>
+    <string name="cadastrar_estado_hint">Estado</string>
+
+    <!-- CONTATOS -->
+    <string name="cadastrar_tel_residen_hint">Telefone Residêncial</string>
+    <string name="cadastrar_tel_recado_hint">Telefone para Recado</string>
+    <string name="cadastrar_celular_hint">Celular</string>
+
+    <!-- BOTÕES -->
+    <string name="cadastrar_button">CADASTRAR</string>
+
+    <!-- TELAS -->
+    <string name="cadastro_aluno">Cadastro</string>
+</resources>
